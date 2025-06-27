@@ -43,7 +43,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/resume-analyzer.git
+   git clone https://github.com/21PWBCS0843/Resume_Analyzer
    cd resume-analyzer
    ```
 
@@ -213,23 +213,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [PyPDF2](https://pypdf2.readthedocs.io/) for PDF processing
 - All contributors and users of this project
 
-## 🆘 Support
 
-If you encounter any issues or have questions:
 
-1. Check the [Issues](https://github.com/yourusername/resume-analyzer/issues) page
-2. Create a new issue with detailed information
-3. Join our [Discussions](https://github.com/yourusername/resume-analyzer/discussions)
-
-## ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/resume-analyzer&type=Date)](https://star-history.com/#yourusername/resume-analyzer&Date)
-
----
-
-<div align="center">
-
-**Made with ❤️ by [Your Name](https://github.com/yourusername)**
+**Made with ❤️ by [Haseeb Hassan](https://github.com/21PWBCS0843)**
 
 [⬆ Back to Top](#-resume-analyzer)
 
